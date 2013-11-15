@@ -2,8 +2,7 @@
 // @name          AutoLink (Modified for JBoss)
 // @namespace     http://xam.dk/userscripts
 // @description   Turns plain text URLs, email addresses and (some) JBoss JIRA key id's into links. You can add new filters if you know how to use JavaScript regular expressions. (Only JBoss JIRA links are new in this modified version.)
-// @include *
-// @include https://*
+// @include https://github.com*
 // @exclude *contacts
 // @exclude *docs.google.com*
 // ==/UserScript==
